@@ -1,8 +1,4 @@
 
-<div align="center">
-<h2>Gonçalo Pascoal</h2>
-</div>
-
 ### 🏗️ Current Projects
 Projects I am currently working on (some may not be publicly available yet).
 
