@@ -1,14 +1,50 @@
 
-<div style="text-align: center">
+<div align="center">
 <h2>Gonçalo Pascoal</h2>
 </div>
 
-#### 🔧 In construction...
+### 🏗️ Current Projects
+Projects I am currently working on (some may not be publicly available yet).
+
+<table align="center">
+  <tr>
+    <th>💡 Name</th>
+    <th>📄 Description</th>
+    <th>⚙️ Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">GW2 Squire 🚧</td>
+    <td align="center">Companion mobile app for the popular MMORPG <a href="https://www.guildwars2.com" target="_blank">Guild Wars 2.</a></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="24px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">TEUP Website Redesign 🚧</td>
+    <td align="center">Full redesign of the <a href="https://paginas.fe.up.pt/~teupwww" target="_blank">TEUP</a> website using modern languages and technologies.<br>Mainly focused on backend, database and REST API.</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Personal Website</td>
+    <td align="center">Updating and improving my personal GitHub pages website built using <a href="https://jekyllrb.com" target="_blank">Jekyll</a>.</td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24px">
+    </td>
+  </tr>
+</table>
 
 ### 🖥️ Languages and Technologies
 Programming languages, libraries and frameworks that I particularly enjoy, have used in the past (in university or for personal projects), or am currently learning more about.
 
-<table>
+<table align="center">
   <tr>
     <th></th>
     <th>📜 Languages</th>
@@ -16,7 +52,7 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
   </tr>
   <tr>
     <th>⭐ Favorite</th>
-    <td align="center" style="align-items:center">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="32px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32px">
@@ -72,7 +108,7 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
 One of my favorite hobbies is designing and developing games. I am particularly fond of the FOSS [Godot](https://godotengine.org/) game engine, though I have also worked with [Unity](https://unity.com/) before. You can find all of my projects on my
 [itch.io page](https://venompaco.itch.io/). Here are a few of them:
 
-<table>
+<table align="center">
   <tr>
     <td width="33%"><a href="https://thezambi.itch.io/sands-of-vengeance" target="_blank"><img alt="Sands of Vengeance" src="https://img.itch.zone/aW1nLzkzNDE4NjMucG5n/315x250%23c/26YdLG.png"></a></td>
     <td width="33%"><a href="https://venompaco.itch.io/enjeteering" target="_blank"><img alt="Enjeteering" src="https://img.itch.zone/aW1nLzg2MTQxNzcucG5n/315x250%23c/aaqiu7.png"></a></td>
