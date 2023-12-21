@@ -26,7 +26,7 @@ Projects I am currently working on (some may not be publicly available yet).
     </td>
   </tr>
   <tr>
-    <td align="center">Personal Website</td>
+    <td align="center"><a href="https://goncalopascoal.github.io">Personal Website</a></td>
     <td align="center">Updating and improving my personal GitHub pages website built using <a href="https://jekyllrb.com">Jekyll</a>.</td>
     <td align="center">
       <a href="https://www.ruby-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="24px"></a>
