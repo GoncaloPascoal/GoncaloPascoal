@@ -1,5 +1,6 @@
 
-### 🏗️ Current Projects
+<h2 align="center">🏗️ Current Projects</h2>
+
 Projects I am currently working on (some may not be publicly available yet).
 
 <table align="center">
@@ -37,7 +38,8 @@ Projects I am currently working on (some may not be publicly available yet).
   </tr>
 </table>
 
-### 🖥️ Languages and Technologies
+<h2 align="center">🖥️ Languages and Technologies</h2>
+
 Programming languages, libraries and frameworks that I particularly enjoy, have used in the past (in university or for personal projects), or am currently learning more about.
 
 <table align="center">
@@ -99,8 +101,8 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
   </tr>
 </table>
 
+<h2 align="center">🎮 Game Development</h2>
 
-### 🎮 Game Development
 One of my favorite hobbies is designing and developing games. I am particularly fond of the FOSS [Godot](https://godotengine.org/) game engine, though I have also worked with [Unity](https://unity.com/) before. You can find all of my projects on my
 [itch.io page](https://venompaco.itch.io/). Here are a few of them:
 
