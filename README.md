@@ -34,6 +34,7 @@ Projects I am currently working on (some may not be publicly available yet).
       <a href="https://www.markdownguide.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="24px"></a>
       <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24px"></a>
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24px"></a>
+      <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24px"></a>
     </td>
   </tr>
 </table>
@@ -51,7 +52,7 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
   <tr>
     <th>⭐ Favorite</th>
     <td align="center">
-      <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="32px"></a>
+      <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32px"></a>
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px"></a>
       <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32px"></a>
     </td>
@@ -83,14 +84,14 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
       <a href="https://www.ray.io"><img src="https://avatars.githubusercontent.com/u/22125274?s=200&v=4" width="32px"></a>
       <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="24px"></a>
       <a href="https://opencv.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32px"></a>
-      <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="32px"></a>
+      <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="32px"></a>
       <a href="https://unity.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="32px"></a>
     </td>
   </tr>
   <tr>
     <th>🎓 Practicing / Learning</th>
     <td align="center">
-      <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="32px"></a>
+      <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32px"></a>
       <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32px"></a>
       <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32px"></a>
     </td>
