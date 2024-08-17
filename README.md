@@ -21,7 +21,7 @@ Projects I am currently working on (some may not be publicly available yet).
     <td align="center">TEUP Website Redesign 🚧</td>
     <td align="center">Full redesign of the <a href="https://paginas.fe.up.pt/~teupwww">TEUP</a> website using modern languages and technologies.<br>Mainly focused on backend, database and REST API.</td>
     <td align="center">
-      <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="24px"></a>
+      <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24px"></a>
       <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24px"></a>
       <a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24px"></a>
     </td>
