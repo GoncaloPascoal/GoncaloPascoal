@@ -22,8 +22,10 @@ Projects I am currently working on (some may not be publicly available yet).
     <td align="center">Full redesign of the <a href="https://paginas.fe.up.pt/~teupwww">TEUP</a> website using modern languages and technologies.<br>Mainly focused on backend, database and REST API.</td>
     <td align="center">
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24px"></a>
+      <a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="24px"></a>
       <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24px"></a>
-      <a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="24px"></a>
+      <a href="https://angular.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="30px"></a>
+      <a href="https://nginx.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="30px"></a>
     </td>
   </tr>
   <tr>
@@ -92,12 +94,12 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
     <th>🎓 Practicing / Learning</th>
     <td align="center">
       <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32px"></a>
-      <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="32px"></a>
       <a href="https://dart.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="32px"></a>
     </td>
     <td align="center">
       <a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="32px"></a>
-      <a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32px"></a>
+      <a href="https://angular.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36px"></a>
+      <a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32px"></a>
     </td>
   </tr>
 </table>
