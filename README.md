@@ -56,7 +56,7 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
     <td align="center">
       <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="32px"></a>
       <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px"></a>
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32px"></a>
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32px"></a>
     </td>
     <td align="center">
       <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32px"></a>
@@ -68,7 +68,7 @@ Programming languages, libraries and frameworks that I particularly enjoy, have 
   <tr>
     <th>🔧 Used</th>
     <td align="center">
-      <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32px"></a>
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32px"></a>
       <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32px"></a>
       <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32px"></a>
       <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32px"></a>
